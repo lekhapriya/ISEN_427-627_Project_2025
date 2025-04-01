@@ -39,5 +39,8 @@ This repository contains baseball data sourced from Baseball Savant's Statcast s
 - **pitch_number**: Total pitch number in the plate appearance.
 - **home_score**: Pre-pitch home team score.
 - **away_score**: Pre-pitch away team score.
+- **error_in_decision**: Indicates if the decision was correct or incorrect.
+- **pitch_location**: Distance of the pitch from the boundary of the strike-zone.
+- **all_star_player**: Indicates if the pitcher has played an All star game.
 
 For more information, visit the [Statcast CSV Documentation](https://baseballsavant.mlb.com/csv-docs).
